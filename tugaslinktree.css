@@ -1,7 +1,7 @@
 /* Apply Raleway Font */
 body {
   font-family: 'Raleway', sans-serif;
-  background: linear-gradient(45deg, #f8a100, #60c57c);
+  background: linear-gradient(45deg, #FF8E00, #003F7D);
   height: 100vh;
   display: flex;
   justify-content: center;
