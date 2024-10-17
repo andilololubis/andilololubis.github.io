@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+
+:root {
+
+  /* fonts */
+  --bold-h1-heading: 'SF Pro';
+
+  /* font sizes */
+  --body-base-text-size: 1rem;
+  --bold-h1-heading-size: 2.5rem;
+  --semi-bold-h2-heading-size: 2rem;
+  --semi-bold-h5-heading-size: 1.25rem;
+
+  /* Colors */
+  --blue-600: #0a58ca;
+  --default-white: #fff;
+  --yellow-500: #ffc107;
+  --color-darkslategray-100: #454d55;
+  --color-darkslategray-200: #3f444a;
+  --stroke-light: #dee2e6;
+  --colors-blue-blue-700: #084298;
+
+  /* Spacing */
+  --space-spacing-7: 1.75rem;
+  --space-spacing-12: 3rem;
+  --space-spacing-5: 1.25rem;
+  --space-spacing-2: 0.5rem;
+  --radius-radius-xl: 1rem;
+  --space-spacing-4: 1rem;
+
+  /* Gaps */
+  --gap-xl: 1.25rem;
+
+  /* Paddings */
+  --padding-29xl: 3rem;
+  --padding-5xs: 0.5rem;
+  --padding-base: 1rem;
+  --padding-xs: 0.75rem;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+
+}
