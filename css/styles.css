@@ -9,19 +9,21 @@ body {
   line-height: 1px;
 }
 
-.navbar-brand > .material-icons-outlined {
+.navbar-brand>.material-icons-outlined {
   font-size: 40px;
 }
 
-.about > .material-icons-outlined {
+.about>.material-icons-outlined {
   font-size: 50px;
 }
 
-.card > img {
+.card>img {
   height: 250px;
+  object-fit: cover;
+  object-position: top;
 }
 
-.testimonial > img {
+.testimonial>img {
   height: 50px;
   width: 50px;
 }
